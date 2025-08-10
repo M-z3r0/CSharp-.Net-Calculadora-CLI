@@ -1,4 +1,4 @@
-#CSharp-.Net-Calculadora-CLI
+# CSharp-.Net-Calculadora-CLI
 🧮 Uma calculadora simples desenvolvida em C# utilizando .NET CLI, projetada para ser executada diretamente no terminal. Ideal para desenvolvedores e entusiastas que desejam realizar cálculos rápidos sem sair do console.
 
 🚀 Funcionalidades
